@@ -1,0 +1,17 @@
+{
+  "name": "smart-grid-telemetry-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "smart-grid",
+    "telemetry",
+    "iot",
+    "anomaly-detection",
+    "power"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
